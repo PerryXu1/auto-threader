@@ -1,51 +1,79 @@
-# Ignore list for Eagle, a PCB layout tool
+Project\ Outputs\ for\ */
 
-# Backup files
-*.s#?
-*.b#?
-*.l#?
-*.b$?
-*.s$?
-*.l$?
+*.APR
+*.EXTREP
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GKO
+*.GML
+*.GMT
+*.GTO
+*.GTP
+*.GTS
+*.G1
+*.G2
+*.GP1
+*.GP2
+*.GD1
+*.GG1
+*.RUL
+*.REP
+*.DRR
+*.LDP
+*.DRL
+*.TXT
+*.DFN
+*.DXF
+*.EMN
+*.EMP
 
-# Eagle project file
-# It contains a serial number and references to the file structure
-# on your computer.
-# comment the following line if you want to have your project file included.
-eagle.epf
+*.ConstraintManagerUser
+*.WorkspaceUser
+*.PcbCorrupt
+History/
+__Preview/
 
-# Autorouter files
-*.pro
-*.job
+*.OutJob
+*.LOG
+*.TXT
+*.Dat
+*.ERR
+*.Rpt
+*.htm
+*.html
+*.xml
+Faults.txt
+Project_Outputs_for_*/
 
-# CAM files
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
+*.TXT
+*.out
+*.sim
+*.ndf
+*.mo
+*.swp
 
-*.dri
-*.drl
-*.gpi
-*.pls
-*.ger
-*.xln
+*.BomDoc.htm
+*.SchDocPreview
+*.PcbDocPreview
+*.PcbLibPreview
+*.SchLibPreview
+*.CamPreview
+*.TlPreview
+*.rcp
+*.vhd
+*.vhd~
+*.v
+*.v~
+*.bak
+*.~*
 
-*.drd
-*.drd.*
-
-*.s#*
-*.b#*
-
-*.info
-
-*.eps
-
-# file locks introduced since 7.x
-*.lck
+!*.PrjPcb
+!*.SchDoc
+!*.PcbDoc
+!*.SchLib
+!*.PcbLib
+!*.OutJob
+!*.DbLib
+!*.SVNDBLib
