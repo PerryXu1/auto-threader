@@ -152,99 +152,111 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for auto_threader\auto_threader.EXTREP
+DocumentPath=Project Outputs for auto_threader\auto_threader.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for auto_threader\auto_threader.G1
+DocumentPath=Project Outputs for auto_threader\auto_threader.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for auto_threader\auto_threader.G2
+DocumentPath=Project Outputs for auto_threader\auto_threader.G1
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GBL
+DocumentPath=Project Outputs for auto_threader\auto_threader.G2
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GBO
+DocumentPath=Project Outputs for auto_threader\auto_threader.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GBP
+DocumentPath=Project Outputs for auto_threader\auto_threader.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GBS
+DocumentPath=Project Outputs for auto_threader\auto_threader.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM
+DocumentPath=Project Outputs for auto_threader\auto_threader.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM1
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM2
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM3
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM4
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM5
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM13
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM15
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM16
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM21
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM23
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GM24
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GTL
+DocumentPath=Project Outputs for auto_threader\auto_threader.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GTO
+DocumentPath=Project Outputs for auto_threader\auto_threader.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GTP
+DocumentPath=Project Outputs for auto_threader\auto_threader.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for auto_threader\auto_threader.GTS
+DocumentPath=Project Outputs for auto_threader\auto_threader.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for auto_threader\auto_threader.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for auto_threader\auto_threader.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for auto_threader\auto_threader.REP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for auto_threader\auto_threader.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -539,6 +551,10 @@ OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\derpy\Development\auto-threader\Hardware\auto-threader\auto_threader.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
