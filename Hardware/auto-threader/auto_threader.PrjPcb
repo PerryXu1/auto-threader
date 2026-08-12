@@ -276,6 +276,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for auto_threader\auto_threader.TXT
 DItemRevisionGUID=
 
+[GeneratedDocument28]
+DocumentPath=Project Outputs for auto_threader\Design Rule Check - auto_threader.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
